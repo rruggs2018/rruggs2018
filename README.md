@@ -4,6 +4,7 @@
       python, and formal languages and automata theory.
 - 💞️ I’m looking to collaborate on...
 - 📫 I can be reached through my email, rruggs2018@fau.edu
+- All of my personal projects will be uploaded by May 10th.
 
 <!---
 rruggs2018/rruggs2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
